@@ -3,7 +3,7 @@
 <h3 align="center">Desarrollador web | Apasionado por el código limpio y elegante</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+  <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </p>
 
  <p  align="center">
