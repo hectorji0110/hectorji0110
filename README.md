@@ -31,12 +31,12 @@
 ## 📈 Estadísticas de GitHub
 
 <a href="https://github.com/hectorji0110/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hectorji0110&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.hectorji0110.vercel.app/api?username=Hectorji0110&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/hectorji0110/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hectorji0110&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.hectorji0110.vercel.app/api/top-langs/?username=Hectorji0110&layout=compact&theme=material-palenight" />
 </a>
 
 <p align="center">
