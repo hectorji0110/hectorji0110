@@ -21,20 +21,28 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<a href="https://github.com/hectorji0110/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hectorji0110&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-
-<a href="https://github.com/hectorji0110/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectorji0110&layout=compact&theme=material-palenight" />
-</a>
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hectorji0110&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hectorji0110&theme=midnight-purple&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hectorji0110&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hectorji0110&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+</p>        
 
 ---
 
