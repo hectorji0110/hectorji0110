@@ -34,6 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hectorji0110&show_icons=true&theme=tokyonight" alt="Estadísticas GitHub" />
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hectorji0110&layout=compact&theme=material-palenight" />
+</a>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hectorji0110&theme=tokyonight" alt="GitHub Streak" />
 </p>
