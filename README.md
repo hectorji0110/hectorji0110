@@ -11,8 +11,8 @@
   <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </p>
 
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+ <p  align="left">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://manuelmslv.github.io/portafolio_manuelmslv/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg)">             
 <br>
 
 ## 🚀 Sobre mí
