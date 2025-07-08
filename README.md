@@ -1,7 +1,7 @@
 <!-- Encabezado animado con HTML -->
 <h1 align="center">👋 Hola, soy <span style="color:#facc15">Héctor Jiménez</span></h1>
 <h3 align="center">Desarrollador web | Apasionado por el código limpio y elegante</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desarrollador+Frontend+💻;Apasionado+por+Tailwind+CSS+🎨;JavaScript+es+mi+lenguaje+favorito+⚡)](https://git.io/typing-svg)
+[[TypingSVG(https://readmetypingsvg.herokuapp.comfont=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Frontend+💻;Apasionado+por+Tailwind+CSS+🎨;Fan+de+JavaScript+⚡)](https://git.io/typing-svg)
 
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
