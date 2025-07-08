@@ -18,7 +18,7 @@
 ## 🚀 Sobre mí
 
 🎓 Ingeniero en Electrónica mención Automatización y Control      
-📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas de desarrollo.
+📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas de desarrollo
 🌐 Desarrollador Web Frontend con experiencia en proyectos con HTML, CSS, Tailwind y JavaScript  
 🔧 También manejo WordPress, GitHub y herramientas modernas de desarrollo  
 💬 Me encanta aprender, colaborar y construir soluciones prácticas  
