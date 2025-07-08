@@ -28,7 +28,7 @@
 
 🧠 Actualmente aprendiendo tecnologías como React y APIs REST  
 
-🗣️ Idiomas: Curso de inglés como lengua extranjera – **Graduado en CEVAZ**
+🗣️ Idiomas: Curso de inglés como lengua extranjera
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
