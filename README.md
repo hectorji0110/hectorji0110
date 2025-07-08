@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="(https://manuelmslv.github.io/portafolio_manuelmslv/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg)">
+  <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </p>
 
  <p  align="center">
