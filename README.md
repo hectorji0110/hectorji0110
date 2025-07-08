@@ -17,9 +17,13 @@
 
 ## 🚀 Sobre mí
 
-💡 Me encanta crear interfaces intuitivas y responsivas usando **HTML, CSS, JavaScript y TailwindCSS**.  
-🎯 Actualmente estoy trabajando en proyectos de práctica como clon de PayPal, Netflix y paneles de control.  
+🎓 Ingeniero en Electrónica mención Automatización y Control      
 📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas de desarrollo.
+🌐 Desarrollador Web Frontend con experiencia en proyectos con HTML, CSS, Tailwind y JavaScript  
+🔧 También manejo WordPress, GitHub y herramientas modernas de desarrollo  
+💬 Me encanta aprender, colaborar y construir soluciones prácticas  
+🧠 Actualmente aprendiendo tecnologías como React y APIs REST  
+🗣️ Idiomas: Curso de inglés como lengua extranjera – **Graduado en CEVAZ**
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
