@@ -16,7 +16,7 @@
 <br>
 
 
-## 🚀 Sobre mí
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 🎓 Ingeniero en Electrónica mención Automatización y Control 
 
