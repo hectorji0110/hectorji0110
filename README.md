@@ -20,13 +20,15 @@
 
 🎓 Ingeniero en Electrónica mención Automatización y Control 
 
-🌐 Desarrollador Web Frontend con experiencia en proyectos con HTML, CSS, Tailwind y JavaScript
+🌐 Desarrollador Web Frontend con experiencia en proyectos con HTML, CSS, Tailwind, JavaScript y React
+
+🌐 Desarrollador Web Backend con experiencia en proyectos con MySQL, MongoJS, NodeJS y Express
 
 📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas de desarrollo
 
-🔧 También manejo WordPress, GitHub y herramientas modernas de desarrollo  
+🔧 También manejo WordPress, GitHub, Milanote, Figma y herramientas modernas de desarrollo  
 
-🧠 Actualmente aprendiendo tecnologías como React y APIs REST  
+🧠 Actualmente aprendiendo tecnologías como Next.JS y n8n
 
 🗣️ Idiomas: Curso de inglés como lengua extranjera
 
