@@ -22,7 +22,7 @@
 
 🌐 Desarrollador Web Frontend con experiencia en proyectos con HTML, CSS, Tailwind, JavaScript y React
 
-🌐 Desarrollador Web Backend con experiencia en proyectos con MySQL, MongoJS, NodeJS y Express
+🌐 Desarrollador Web Backend con experiencia en proyectos con MySQL, MongoJS, NodeDB y Express
 
 📚 Siempre estoy aprendiendo nuevas tecnologías y herramientas de desarrollo
 
